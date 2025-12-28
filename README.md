@@ -1,4 +1,4 @@
-# 🔴 Redlense
+# 🔴 Redlens
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Version](https://img.shields.io/badge/version-2.0.1-green.svg)](https://github.com/TENETx0/Redlense)
+[![Version](https://img.shields.io/badge/version-2.0.1-green.svg)](https://github.com/TENETx0/Redlens)
 
 **Created by Monish Kanna**
 
@@ -26,9 +26,9 @@
 
 ## 📋 Overview
 
-**Redlense** is a comprehensive, professional-grade web application security scanner designed for penetration testers, security researchers, and bug bounty hunters. It provides an extensive suite of reconnaissance and vulnerability assessment modules in a sleek, animated terminal interface.
+**Redlens** is a comprehensive, professional-grade web application security scanner designed for penetration testers, security researchers, and bug bounty hunters. It provides an extensive suite of reconnaissance and vulnerability assessment modules in a sleek, animated terminal interface.
 
-### ✨ Why Redlense?
+### ✨ Why Redlens?
 
 - 🎯 **11 Comprehensive Modules** - From reconnaissance to cloud exposure analysis
 - 🚀 **Professional Interface** - Beautiful animated terminal with 30 twinkling stars
@@ -77,8 +77,8 @@
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/TENETx0/Redlense.git
-cd Redlense
+git clone https://github.com/TENETx0/Redlens.git
+cd Redlens
 ```
 
 ### Step 2: Install Dependencies
@@ -97,8 +97,8 @@ pip install -r requirements.txt --break-system-packages
 
 ```bash
 # The directory structure should look like this:
-Redlense/
-├── Redlense.py           # Main menu interface
+Redlens/
+├── Redlens.py           # Main menu interface
 ├── requirements.txt      # Python dependencies
 ├── modules/              # Scanning modules
 │   ├── preflight.py
@@ -130,7 +130,7 @@ Redlense/
 ### Step 4: Make Executable (Optional)
 
 ```bash
-chmod +x Redlense.py
+chmod +x Redlens.py
 ```
 
 ---
@@ -140,15 +140,15 @@ chmod +x Redlense.py
 ### Basic Usage
 
 ```bash
-python3 Redlense.py
+python3 Redlens.py
 ```
 
 ### Quick Start Guide
 
-1. **Launch Redlense**
+1. **Launch Redlens**
    ```bash
-   cd Redlense
-   python3 Redlense.py
+   cd Redlens
+   python3 Redlens.py
    ```
 
 2. **Enter Target URL**
@@ -325,7 +325,7 @@ python3 Redlense.py
 
 ### Wordlist Customization
 
-Redlense uses customizable wordlists for directory and file discovery. The default wordlist is located at:
+Redlens uses customizable wordlists for directory and file discovery. The default wordlist is located at:
 
 ```
 Dirb/Dir.txt
@@ -454,7 +454,7 @@ Results/
 
 **IMPORTANT: This tool is for authorized security testing only.**
 
-- ⚖️ Only use Redlense on systems you own or have explicit permission to test
+- ⚖️ Only use Redlens on systems you own or have explicit permission to test
 - 📋 Unauthorized scanning may be illegal in your jurisdiction
 - 🎯 Respect robots.txt and rate limits
 - 🔒 Be responsible - do not abuse this tool
@@ -540,7 +540,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 - **Security Community** - For continuous research and vulnerability discoveries
 - **Open Source Projects** - For the amazing libraries and tools used in this project
-- **Contributors** - For improving and expanding Redlense
+- **Contributors** - For improving and expanding Redlens
 - **Bug Bounty Hunters** - For testing and feedback
 
 ---
@@ -550,13 +550,13 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 **Monish Kanna**
 
 - GitHub: [@TENETx0](https://github.com/TENETx0)
-- Project Link: [https://github.com/TENETx0/Redlense](https://github.com/TENETx0/Redlense)
+- Project Link: [https://github.com/TENETx0/Redlens](https://github.com/TENETx0/Redlens)
 
 ---
 
 ## ⭐ Star History
 
-If you find Redlense useful, please consider giving it a star! ⭐
+If you find Redlens useful, please consider giving it a star! ⭐
 
 ---
 
@@ -589,6 +589,6 @@ If you find Redlense useful, please consider giving it a star! ⭐
 
 ### Made with ❤️ by Monish Kanna
 
-**[⬆ Back to Top](#-redlense)**
+**[⬆ Back to Top](#-redlens)**
 
 </div>
