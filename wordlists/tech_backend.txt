@@ -1,0 +1,286 @@
+# Backend Frameworks Wordlist
+
+# Node.js Frameworks
+Express
+Express.js
+ExpressJS
+Koa
+Koa.js
+Hapi
+Fastify
+NestJS
+Nest.js
+AdonisJS
+Adonis.js
+Sails
+Sails.js
+Meteor
+LoopBack
+Loopback
+Feathers
+FeathersJS
+Restify
+Total.js
+Strapi
+KeystoneJS
+Keystone
+Foal
+FoalTS
+
+# Python Frameworks
+Django
+Flask
+FastAPI
+Tornado
+Bottle
+CherryPy
+web2py
+Pyramid
+Falcon
+Sanic
+Quart
+Starlette
+aiohttp
+Hug
+Dash
+Masonite
+Responder
+
+# Ruby Frameworks
+Ruby on Rails
+Rails
+Sinatra
+Padrino
+Hanami
+Roda
+Cuba
+Grape
+Camping
+
+# PHP Frameworks
+Laravel
+Symfony
+CodeIgniter
+Yii
+Yii2
+CakePHP
+Zend
+Zend Framework
+Laminas
+Slim
+Phalcon
+FuelPHP
+PHPixie
+Fat-Free
+Lumen
+Kohana
+Aura
+
+# Java Frameworks
+Spring
+Spring Boot
+Spring MVC
+Struts
+Apache Struts
+Hibernate
+Grails
+Play Framework
+Vaadin
+JavaServer Faces
+JSF
+Dropwizard
+Micronaut
+Quarkus
+Vert.x
+Spark
+Javalin
+Ratpack
+Blade
+JHipster
+
+# C# / .NET
+ASP.NET
+ASP.NET Core
+ASP.NET MVC
+ASP.NET Web API
+Nancy
+ServiceStack
+Carter
+Orleans
+
+# Go Frameworks
+Gin
+Echo
+Fiber
+Beego
+Revel
+Buffalo
+Iris
+Chi
+Gorilla
+Martini
+Goji
+
+# Rust Frameworks
+Actix
+Actix-web
+Rocket
+Warp
+Axum
+Tide
+Nickel
+
+# Scala Frameworks
+Play
+Akka
+Akka HTTP
+Scalatra
+Finatra
+Lift
+http4s
+
+# Kotlin Frameworks
+Ktor
+Spring Boot
+Javalin
+http4k
+Vert.x
+
+# Elixir/Erlang
+Phoenix
+Phoenix Framework
+Cowboy
+Plug
+
+# Lua
+Lapis
+OpenResty
+Kong
+
+# Perl
+Catalyst
+Mojolicious
+Dancer
+Dancer2
+
+# R
+Shiny
+Plumber
+RestRserve
+
+# Haskell
+Yesod
+Snap
+Scotty
+Servant
+Spock
+
+# Clojure
+Compojure
+Luminus
+Pedestal
+
+# Crystal
+Kemal
+Amber
+Lucky
+
+# Nim
+Jester
+Prologue
+
+# Swift
+Vapor
+Kitura
+Perfect
+
+# Dart
+Aqueduct
+Angel
+Shelf
+
+# OCaml
+Dream
+Opium
+
+# F#
+Giraffe
+Saturn
+Suave
+
+# Zig
+zap
+
+# API Frameworks
+GraphQL
+Apollo Server
+Hasura
+Postgraphile
+Prisma
+Directus
+tRPC
+gRPC
+Apache Thrift
+
+# Serverless Frameworks
+Serverless Framework
+AWS SAM
+Claudia.js
+Zappa
+Chalice
+Arc
+SST
+OpenFaaS
+Knative
+Kubeless
+
+# Microservices
+Istio
+Linkerd
+Consul
+Dapr
+Micro
+Go Micro
+Kit
+Go Kit
+
+# Message Queues/Brokers
+RabbitMQ
+Apache Kafka
+Redis
+NATS
+ZeroMQ
+ActiveMQ
+Amazon SQS
+Google Pub/Sub
+Azure Service Bus
+Celery
+Bull
+BullMQ
+Sidekiq
+Resque
+
+# Real-time
+Socket.IO
+Socket.io
+WebSocket
+ws
+uWebSockets
+SignalR
+Action Cable
+Phoenix Channels
+Pusher
+Ably
+PubNub
+
+# Job Schedulers
+Celery
+Sidekiq
+Resque
+Bull
+BullMQ
+Agenda
+node-cron
+APScheduler
+Quartz
+Hangfire

@@ -1,0 +1,435 @@
+# Security Tools & Technologies Wordlist
+
+# Web Application Firewalls
+ModSecurity
+Cloudflare WAF
+AWS WAF
+Azure WAF
+Google Cloud Armor
+Imperva
+F5 Advanced WAF
+Fortinet FortiWeb
+Barracuda WAF
+Citrix NetScaler
+Akamai Kona
+Radware AppWall
+Wallarm
+Signal Sciences
+PerimeterX
+DataDome
+Reblaze
+NAXSI
+Shadow Daemon
+WebKnight
+DotDefender
+Prophaze
+
+# DDoS Protection
+Cloudflare
+Akamai Prolexic
+AWS Shield
+Azure DDoS Protection
+Google Cloud Armor
+Radware DefensePro
+Arbor Networks
+Neustar
+Link11
+Corero
+Incapsula
+Sucuri
+DOSarrest
+
+# SSL/TLS
+Let's Encrypt
+DigiCert
+Comodo
+GeoTrust
+RapidSSL
+GlobalSign
+Sectigo
+Entrust
+Thawte
+IdenTrust
+GoDaddy SSL
+Symantec
+Certbot
+ACME
+OpenSSL
+LibreSSL
+BoringSSL
+wolfSSL
+
+# Vulnerability Scanners
+Nessus
+OpenVAS
+Nexpose
+Qualys
+Acunetix
+Burp Suite
+OWASP ZAP
+Nikto
+Nmap
+Metasploit
+w3af
+Arachni
+Vega
+Wapiti
+SkipFish
+SQLMap
+Commix
+XSSer
+BeEF
+WPScan
+Joomla Scanner
+Drupal Scanner
+Nuclei
+FFUF
+Gobuster
+Dirb
+Dirbuster
+
+# SAST Tools
+SonarQube
+Checkmarx
+Veracode
+Fortify
+Coverity
+Snyk Code
+Semgrep
+Bandit
+Brakeman
+PMD
+SpotBugs
+FindSecBugs
+ESLint
+JSHint
+TSLint
+StyleCop
+ReSharper
+CodeQL
+LGTM
+
+# DAST Tools
+Burp Suite
+OWASP ZAP
+Acunetix
+AppSpider
+WebInspect
+Detectify
+StackHawk
+HCL AppScan
+Invicti
+Rapid7 InsightAppSec
+
+# IAST Tools
+Contrast Security
+Seeker
+Hdiv Detection
+Checkmarx CxIAST
+
+# Container Security
+Aqua Security
+Twistlock
+Sysdig
+StackRox
+Anchore
+Clair
+Trivy
+Dagda
+Falco
+NeuVector
+
+# Secrets Management
+HashiCorp Vault
+AWS Secrets Manager
+Azure Key Vault
+Google Secret Manager
+CyberArk
+Thycotic
+1Password
+Keeper
+LastPass Enterprise
+Doppler
+Infisical
+
+# Identity & Access
+Okta
+Auth0
+Azure AD
+Google Identity
+OneLogin
+Ping Identity
+ForgeRock
+SailPoint
+Saviynt
+JumpCloud
+CyberArk
+BeyondTrust
+Centrify
+Secret Server
+Delinea
+
+# SIEM & Log Analysis
+Splunk
+Elastic SIEM
+LogRhythm
+IBM QRadar
+ArcSight
+Sumo Logic
+Datadog Security
+Rapid7 InsightIDR
+AlienVault OSSIM
+Graylog
+Wazuh
+OSSEC
+
+# EDR & Antivirus
+CrowdStrike
+SentinelOne
+Carbon Black
+Cylance
+Sophos
+Trend Micro
+McAfee
+Symantec
+Kaspersky
+Bitdefender
+ESET
+Palo Alto Cortex
+Microsoft Defender
+Windows Defender
+Malwarebytes
+Webroot
+Avast
+AVG
+Norton
+Avira
+F-Secure
+G Data
+
+# Network Security
+Cisco ASA
+Palo Alto Networks
+Fortinet FortiGate
+Check Point
+Sophos XG
+pfSense
+OPNsense
+Untangle
+WatchGuard
+SonicWall
+Barracuda
+Juniper SRX
+
+# Penetration Testing
+Kali Linux
+Parrot OS
+BlackArch
+BackBox
+Metasploit
+Cobalt Strike
+Empire
+PowerShell Empire
+Covenant
+Sliver
+PoshC2
+Koadic
+
+# Bug Bounty
+HackerOne
+Bugcrowd
+Synack
+Intigriti
+YesWeHack
+Open Bug Bounty
+BountyFactory
+
+# Security Training
+HackTheBox
+TryHackMe
+PentesterLab
+VulnHub
+OverTheWire
+PicoCTF
+SANS Cyber Aces
+Cybrary
+Offensive Security
+eLearnSecurity
+
+# Compliance & GRC
+Vanta
+Drata
+SecureFrame
+Tugboat Logic
+OneTrust
+TrustArc
+ServiceNow GRC
+RSA Archer
+MetricStream
+
+# Threat Intelligence
+Recorded Future
+ThreatConnect
+Anomali
+Palo Alto AutoFocus
+IBM X-Force
+Mandiant
+CrowdStrike Falcon
+FireEye
+Talos Intelligence
+AlienVault OTX
+MISP
+OpenCTI
+
+# Email Security
+Proofpoint
+Mimecast
+Barracuda
+Cisco IronPort
+Microsoft Defender
+Google Workspace Security
+Forcepoint
+Symantec Email Security
+Trend Micro Email Security
+INKY
+Area 1 Security
+Abnormal Security
+Tessian
+
+# Cloud Security
+Prisma Cloud
+Lacework
+Orca Security
+Wiz
+CloudGuard
+Cloud Security Posture Management
+CSPM
+Cloud Workload Protection
+CWPP
+Aqua
+Sysdig
+Snyk
+Bridgecrew
+
+# API Security
+Salt Security
+Traceable
+Noname Security
+Data Theorem
+42Crunch
+Wallarm
+Imvision
+APIsec
+Neosec
+
+# Bot Management
+PerimeterX
+DataDome
+Kasada
+Shape Security
+Akamai Bot Manager
+Cloudflare Bot Management
+Radware Bot Manager
+Imperva Bot Management
+F5 Shape
+
+# RASP
+Contrast Security
+Sqreen
+Signal Sciences
+Prevoty
+Waratek
+OneSpan
+
+# Certificate Management
+DigiCert CertCentral
+GlobalSign Atlas
+Sectigo Certificate Manager
+Venafi
+AppViewX
+Keyfactor
+
+# Backup & DR
+Veeam
+Commvault
+Veritas
+Rubrik
+Cohesity
+Druva
+Acronis
+Carbonite
+Datto
+Barracuda Backup
+
+# Encryption
+VeraCrypt
+BitLocker
+FileVault
+LUKS
+dm-crypt
+GnuPG
+PGP
+OpenPGP
+AES Crypt
+AxCrypt
+
+# Password Managers
+1Password
+LastPass
+Dashlane
+Bitwarden
+Keeper
+NordPass
+RoboForm
+Sticky Password
+Enpass
+KeePass
+Password Safe
+
+# 2FA/MFA
+Authy
+Google Authenticator
+Microsoft Authenticator
+Duo
+YubiKey
+RSA SecurID
+Okta Verify
+Auth0 Guardian
+FreeOTP
+Aegis
+
+# Privacy Tools
+Tor
+I2P
+VPN
+NordVPN
+ExpressVPN
+ProtonVPN
+Mullvad
+IVPN
+Signal
+Telegram
+ProtonMail
+Tutanota
+Privacy Badger
+uBlock Origin
+DuckDuckGo
+Brave Browser
+Firefox
+StartPage
+Qwant
+
+# Forensics
+Autopsy
+Sleuth Kit
+EnCase
+FTK
+X-Ways
+Volatility
+Rekall
+SIFT Workstation
+CAINE
+Paladin
+Wireshark
+tcpdump
+Network Miner

@@ -1,0 +1,132 @@
+# Programming Languages Wordlist
+
+# Web Languages
+JavaScript
+TypeScript
+PHP
+Python
+Ruby
+Java
+C#
+Go
+Golang
+Rust
+Kotlin
+Swift
+Dart
+Elixir
+Scala
+Clojure
+F#
+Haskell
+OCaml
+Elm
+PureScript
+ReasonML
+Crystal
+Nim
+
+# Systems Programming
+C
+C++
+Rust
+Go
+Zig
+D
+V
+Odin
+
+# JVM Languages
+Java
+Kotlin
+Scala
+Clojure
+Groovy
+JRuby
+Jython
+
+# .NET Languages
+C#
+F#
+VB.NET
+Visual Basic
+
+# Scripting
+Python
+Ruby
+Perl
+Lua
+Shell
+Bash
+PowerShell
+Fish
+Zsh
+
+# Functional
+Haskell
+OCaml
+F#
+Elm
+Elixir
+Erlang
+Clojure
+Scala
+Scheme
+Racket
+Common Lisp
+
+# Data Science
+Python
+R
+Julia
+MATLAB
+Octave
+SAS
+Scala
+SQL
+
+# Mobile
+Swift
+Objective-C
+Kotlin
+Java
+Dart
+Flutter
+React Native
+
+# Game Development
+C++
+C#
+Lua
+GDScript
+UnrealScript
+HLSL
+GLSL
+
+# Query Languages
+SQL
+GraphQL
+Cypher
+Gremlin
+SPARQL
+
+# Markup/Config
+HTML
+XML
+YAML
+JSON
+TOML
+HCL
+Markdown
+
+# Legacy
+COBOL
+Fortran
+Pascal
+Ada
+Lisp
+Prolog
+Smalltalk
+BASIC
+Visual Basic 6
+Delphi

@@ -1,0 +1,389 @@
+# Frontend Frameworks & Libraries Wordlist
+
+# Major Frontend Frameworks
+React
+ReactJS
+React.js
+Next.js
+NextJS
+Gatsby
+GatsbyJS
+Remix
+Remix Run
+Blitz.js
+Redwood
+RedwoodJS
+
+Vue
+Vue.js
+VueJS
+Nuxt
+Nuxt.js
+NuxtJS
+Quasar
+Quasar Framework
+Gridsome
+VuePress
+
+Angular
+AngularJS
+Angular.js
+Angular 2
+Ionic
+Ionic Framework
+
+Svelte
+SvelteKit
+Sapper
+
+Ember
+Ember.js
+EmberJS
+
+Backbone
+Backbone.js
+
+Meteor
+MeteorJS
+
+Preact
+Hyperapp
+Mithril
+Riot.js
+Inferno
+Stimulus
+Alpine.js
+AlpineJS
+Solid.js
+SolidJS
+Lit
+lit-html
+lit-element
+Stencil
+StencilJS
+
+# Component Libraries
+Material-UI
+MUI
+Ant Design
+antd
+Chakra UI
+Mantine
+Semantic UI
+Bootstrap
+Bootstrap 3
+Bootstrap 4
+Bootstrap 5
+Tailwind CSS
+TailwindCSS
+Bulma
+Foundation
+Foundation CSS
+Pure.css
+Skeleton
+Milligram
+Spectre.css
+UIKit
+Materialize
+Materialize CSS
+PrimeNG
+PrimeReact
+PrimeVue
+Blueprint
+Evergreen
+Rebass
+Theme UI
+Grommet
+Carbon Design System
+Fluent UI
+shadcn/ui
+Radix UI
+Headless UI
+React Aria
+Shoelace
+
+# CSS Frameworks & Preprocessors
+SASS
+SCSS
+LESS
+Stylus
+PostCSS
+CSS Modules
+Styled Components
+styled-components
+Emotion
+CSS-in-JS
+JSS
+Linaria
+Stitches
+vanilla-extract
+
+# Build Tools & Bundlers
+Webpack
+webpack
+Parcel
+Rollup
+Vite
+esbuild
+Snowpack
+Turbopack
+SWC
+Babel
+tsc
+TypeScript Compiler
+
+# State Management
+Redux
+Redux Toolkit
+MobX
+Zustand
+Recoil
+Jotai
+XState
+Vuex
+Pinia
+NgRx
+Akita
+
+# UI/Animation Libraries
+Three.js
+ThreeJS
+GSAP
+GreenSock
+Anime.js
+Framer Motion
+React Spring
+Motion One
+Lottie
+PixiJS
+Babylon.js
+D3.js
+D3
+Chart.js
+Recharts
+Victory
+Plotly.js
+ECharts
+Highcharts
+ApexCharts
+vis.js
+Cytoscape.js
+
+# Form Libraries
+Formik
+React Hook Form
+Final Form
+Redux Form
+VeeValidate
+Yup
+Zod
+Joi
+Vest
+
+# Testing
+Jest
+Mocha
+Chai
+Jasmine
+Karma
+Cypress
+Playwright
+Puppeteer
+TestCafe
+WebdriverIO
+Selenium
+Vitest
+Testing Library
+React Testing Library
+Enzyme
+
+# Dev Tools
+ESLint
+Prettier
+Stylelint
+Husky
+lint-staged
+commitlint
+
+# Utility Libraries
+Lodash
+Underscore
+Ramda
+date-fns
+Moment.js
+Day.js
+Luxon
+
+# Other Frontend Tools
+Storybook
+Chromatic
+Ladle
+Histoire
+GraphQL
+Apollo Client
+Relay
+urql
+React Query
+SWR
+tRPC
+Axios
+fetch
+ky
+got
+superagent
+
+# Progressive Web Apps
+Workbox
+sw-precache
+sw-toolbox
+
+# Micro Frontends
+Single-SPA
+Module Federation
+Piral
+qiankun
+
+# Web Components
+LitElement
+Polymer
+Stencil
+Hybrids
+Haunted
+
+# Desktop Apps (Electron-based)
+Electron
+ElectronJS
+Tauri
+NW.js
+Neutralino
+
+# Mobile Frameworks
+React Native
+ReactNative
+Expo
+Flutter
+Ionic
+Capacitor
+Cordova
+PhoneGap
+NativeScript
+Quasar
+Framework7
+OnsenUI
+
+# WebAssembly
+Emscripten
+wasm-bindgen
+AssemblyScript
+
+# Game Engines (Web)
+Phaser
+Phaser.js
+PlayCanvas
+BabylonJS
+Unity WebGL
+Godot
+Construct
+GDevelop
+
+# Audio/Video
+Howler.js
+Tone.js
+Video.js
+Plyr
+MediaElement.js
+Shaka Player
+hls.js
+dash.js
+
+# Maps & Geo
+Leaflet
+Mapbox
+OpenLayers
+Google Maps API
+MapLibre
+Cesium
+
+# Rich Text Editors
+Quill
+TinyMCE
+CKEditor
+Draft.js
+Slate
+ProseMirror
+Trix
+Medium Editor
+ContentTools
+Summernote
+
+# Drag & Drop
+react-beautiful-dnd
+react-dnd
+SortableJS
+Dragula
+interact.js
+
+# Virtual/Infinite Scroll
+react-window
+react-virtualized
+vue-virtual-scroller
+clusterize.js
+
+# Notifications/Toasts
+react-toastify
+notistack
+react-hot-toast
+toastr
+sweetalert
+sweetalert2
+
+# Modals/Dialogs
+react-modal
+sweetalert2
+micromodal
+
+# Carousel/Sliders
+Swiper
+SwiperJS
+Slick
+Owl Carousel
+Flickity
+Splide
+Glide.js
+
+# Icons
+Font Awesome
+FontAwesome
+Heroicons
+Lucide
+Feather Icons
+Material Icons
+Ionicons
+Bootstrap Icons
+Remix Icon
+Tabler Icons
+Phosphor Icons
+
+# Authentication (Frontend)
+Auth0
+Firebase Auth
+Okta
+Cognito
+Supabase Auth
+Clerk
+NextAuth.js
+Passport.js
+
+# Internationalization
+i18next
+react-intl
+FormatJS
+vue-i18n
+Globalize
+Polyglot
+
+# Accessibility
+axe-core
+Pa11y
+WAVE
+Lighthouse

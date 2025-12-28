@@ -1,0 +1,337 @@
+# Cloud Platforms & Services Wordlist
+
+# AWS Services
+Amazon Web Services
+AWS
+EC2
+S3
+RDS
+Lambda
+DynamoDB
+CloudFront
+Route 53
+ECS
+EKS
+Fargate
+ElastiCache
+SQS
+SNS
+CloudWatch
+CloudFormation
+Elastic Beanstalk
+API Gateway
+Cognito
+AppSync
+Amplify
+Aurora
+Redshift
+Kinesis
+Athena
+Glue
+SageMaker
+Rekognition
+Comprehend
+Polly
+Lex
+Transcribe
+Translate
+EFS
+FSx
+Step Functions
+EventBridge
+X-Ray
+Systems Manager
+Secrets Manager
+Parameter Store
+Certificate Manager
+WAF
+Shield
+GuardDuty
+Inspector
+Macie
+Security Hub
+CloudTrail
+Config
+Trusted Advisor
+Well-Architected Tool
+Organizations
+Control Tower
+Service Catalog
+App Mesh
+Cloud Map
+AppRunner
+Lightsail
+Outposts
+
+# Google Cloud Services
+Google Cloud Platform
+GCP
+Compute Engine
+App Engine
+Cloud Functions
+Cloud Run
+Cloud Storage
+Cloud SQL
+Cloud Spanner
+Bigtable
+Firestore
+BigQuery
+Pub/Sub
+Cloud Tasks
+Cloud Scheduler
+Dataflow
+Dataproc
+Dataprep
+Cloud Build
+Container Registry
+GKE
+Kubernetes Engine
+Cloud CDN
+Cloud DNS
+Cloud Load Balancing
+VPC
+Cloud IAM
+Cloud KMS
+Secret Manager
+Security Command Center
+Cloud Armor
+Identity Platform
+Firebase
+Firebase Authentication
+Firebase Hosting
+Firebase Functions
+Firebase Firestore
+Firebase Realtime Database
+Cloud Vision
+Cloud Natural Language
+Cloud Translation
+Cloud Speech-to-Text
+Cloud Text-to-Speech
+Dialogflow
+AutoML
+Vertex AI
+TensorFlow
+Cloud Composer
+Datalab
+Anthos
+Cloud Monitoring
+Cloud Logging
+Cloud Trace
+Cloud Profiler
+Cloud Debugger
+
+# Microsoft Azure Services
+Microsoft Azure
+Azure
+Virtual Machines
+App Service
+Functions
+Container Instances
+AKS
+Kubernetes Service
+Blob Storage
+File Storage
+Queue Storage
+Table Storage
+SQL Database
+Cosmos DB
+MySQL
+PostgreSQL
+Synapse Analytics
+Data Lake
+HDInsight
+Databricks
+Stream Analytics
+Event Hubs
+Service Bus
+Logic Apps
+API Management
+Application Gateway
+Front Door
+CDN
+DNS
+Load Balancer
+VPN Gateway
+Express Route
+Active Directory
+Azure AD B2C
+Key Vault
+Security Center
+Sentinel
+Defender
+Application Insights
+Monitor
+Log Analytics
+Cognitive Services
+Machine Learning
+Bot Service
+DevOps
+Pipelines
+Boards
+Repos
+Test Plans
+Artifacts
+
+# DigitalOcean
+DigitalOcean
+Droplets
+Kubernetes
+App Platform
+Functions
+Managed Databases
+Spaces
+Block Storage
+Load Balancers
+Networking
+Monitoring
+Container Registry
+
+# Linode
+Linode
+Compute
+NodeBalancers
+Block Storage
+Object Storage
+Kubernetes
+Managed Databases
+Backups
+Volumes
+Cloud Firewall
+
+# Heroku
+Heroku
+Dynos
+Add-ons
+Heroku Postgres
+Heroku Redis
+Heroku Connect
+Heroku Elements
+Heroku Enterprise
+Heroku Pipelines
+
+# Vercel
+Vercel
+Edge Functions
+Edge Middleware
+Analytics
+Speed Insights
+Image Optimization
+Preview Deployments
+
+# Netlify
+Netlify
+Edge Functions
+Edge Handlers
+Forms
+Identity
+Analytics
+Large Media
+Build Plugins
+Split Testing
+
+# Cloudflare
+Cloudflare
+Workers
+Pages
+Stream
+Images
+R2
+D1
+KV
+Durable Objects
+Queues
+Workers AI
+
+# Fly.io
+Fly.io
+Machines
+Apps
+Volumes
+Anycast
+
+# Railway
+Railway
+Services
+Databases
+Volumes
+Ephemeral Storage
+
+# Render
+Render
+Web Services
+Static Sites
+Private Services
+Cron Jobs
+Databases
+Redis
+
+# Alibaba Cloud
+Alibaba Cloud
+Aliyun
+ECS
+OSS
+RDS
+ApsaraDB
+MaxCompute
+DataWorks
+PAI
+Function Compute
+Container Service
+SAE
+ACK
+CDN
+SLB
+VPC
+Direct Connect
+Anti-DDoS
+WAF
+Security Center
+
+# Tencent Cloud
+Tencent Cloud
+CVM
+COS
+TencentDB
+SCF
+TKE
+CDN
+CLB
+VPC
+Direct Connect
+T-Sec
+
+# Oracle Cloud
+Oracle Cloud
+OCI
+Compute
+Block Volumes
+Object Storage
+Autonomous Database
+MySQL Database Service
+Container Engine
+Functions
+API Gateway
+Streaming
+Integration
+Analytics
+AI Services
+WAF
+Cloud Guard
+
+# IBM Cloud
+IBM Cloud
+Virtual Servers
+Kubernetes Service
+Cloud Functions
+Code Engine
+Object Storage
+Databases
+Watson
+AI
+Blockchain
+Quantum
+Cloud Foundry
+DevOps
+Logging
+Monitoring
+Security

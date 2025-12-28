@@ -1,0 +1,454 @@
+# Analytics & Tracking Technologies Wordlist
+
+# Web Analytics
+Google Analytics
+Google Analytics 4
+GA4
+Universal Analytics
+gtag
+_gaq
+_gat
+analytics.js
+Matomo
+Piwik
+Adobe Analytics
+Omniture
+Clicky
+StatCounter
+AWStats
+Webalizer
+Woopra
+Mixpanel
+Amplitude
+Heap
+FullStory
+Hotjar
+Crazy Egg
+Mouseflow
+Lucky Orange
+Smartlook
+SessionCam
+Inspectlet
+ClickTale
+UserTesting
+Quantum Metric
+Contentsquare
+Glassbox
+Tealeaf
+Decibel
+Evergage
+
+# Tag Management
+Google Tag Manager
+GTM
+Adobe Launch
+Tealium
+Segment
+mParticle
+Ensighten
+Signal
+BrightTag
+QuBit
+BlueConic
+
+# Attribution & Marketing Analytics
+Google Attribution
+Adobe Attribution
+Bizible
+AppsFlyer
+Adjust
+Kochava
+Branch
+Singular
+Tune
+HasOffers
+Impact
+PartnerStack
+Tapfiliate
+Refersion
+LeadDyno
+Trackier
+Cake
+Everflow
+Voluum
+RedTrack
+
+# Conversion Optimization
+Optimizely
+VWO
+Visual Website Optimizer
+AB Tasty
+Google Optimize
+Adobe Target
+Convert
+Monetate
+Dynamic Yield
+Kameleoon
+SiteSpect
+Unbounce
+Instapage
+Leadpages
+
+# Heatmaps & Session Recording
+Hotjar
+Crazy Egg
+Mouseflow
+Lucky Orange
+Smartlook
+SessionCam
+Inspectlet
+FullStory
+LogRocket
+SessionStack
+OpenReplay
+Clarity
+Microsoft Clarity
+
+# Product Analytics
+Mixpanel
+Amplitude
+Heap
+Pendo
+Gainsight PX
+Appcues
+WalkMe
+Whatfix
+Userpilot
+Chameleon
+Intercom Product Tours
+Userflow
+Inline Manual
+
+# Mobile Analytics
+Firebase Analytics
+Google Firebase
+Flurry
+Countly
+App Annie
+App Radar
+Sensor Tower
+data.ai
+Localytics
+UXCam
+Appsee
+TestFlight Analytics
+
+# E-commerce Analytics
+Google Analytics Enhanced Ecommerce
+Shopify Analytics
+WooCommerce Analytics
+BigCommerce Analytics
+Magento Analytics
+Segment Ecommerce
+Kissmetrics
+Metrilo
+Glew
+Daasity
+Lifetimely
+
+# Social Media Analytics
+Facebook Pixel
+Meta Pixel
+fbq
+Facebook Analytics
+Twitter Analytics
+LinkedIn Insight Tag
+Pinterest Tag
+TikTok Pixel
+Snapchat Pixel
+Reddit Pixel
+Instagram Insights
+
+# Video Analytics
+YouTube Analytics
+Vimeo Analytics
+Wistia
+Vidyard
+Brightcove Analytics
+Kaltura Analytics
+JW Player Analytics
+SproutVideo
+
+# Email Analytics
+Mailchimp Analytics
+SendGrid Analytics
+Constant Contact
+Campaign Monitor
+AWeber
+GetResponse
+ConvertKit
+ActiveCampaign
+HubSpot Email Analytics
+Sendinblue
+
+# Customer Data Platforms
+Segment
+mParticle
+Tealium AudienceStream
+Adobe Experience Platform
+BlueConic
+Lytics
+Treasure Data
+Arm Treasure Data
+ActionIQ
+Insider
+Bloomreach Engagement
+Exponea
+Emarsys
+
+# Data Warehouses/ETL
+Snowflake
+Google BigQuery
+Amazon Redshift
+Databricks
+Fivetran
+Stitch
+Talend
+Airbyte
+Hevo Data
+Panoply
+RudderStack
+
+# Business Intelligence
+Tableau
+Power BI
+Looker
+Qlik
+Sisense
+Domo
+Mode Analytics
+Periscope Data
+Metabase
+Redash
+Superset
+Apache Superset
+Chartio
+GoodData
+
+# Real User Monitoring (RUM)
+New Relic Browser
+Datadog RUM
+Dynatrace RUM
+AppDynamics
+Raygun
+Sentry
+Bugsnag
+Rollbar
+TrackJS
+Airbrake
+Honeybadger
+
+# Performance Monitoring
+Google PageSpeed
+Lighthouse
+GTmetrix
+WebPageTest
+Pingdom
+SpeedCurve
+Calibre
+DebugBear
+Treo
+SpeedTracker
+
+# Error Tracking
+Sentry
+Bugsnag
+Rollbar
+Raygun
+TrackJS
+Airbrake
+Honeybadger
+Errbit
+LogRocket
+OverOps
+Backtrace
+
+# Application Performance
+New Relic APM
+Datadog APM
+Dynatrace
+AppDynamics
+Elastic APM
+Jaeger
+Zipkin
+OpenTelemetry
+SigNoz
+Pinpoint
+Skywalking
+
+# Log Management
+Splunk
+Loggly
+Papertrail
+Logz.io
+Sumo Logic
+Datadog Logs
+Elastic Stack
+ELK Stack
+Graylog
+Fluentd
+Logstash
+
+# User Feedback
+Qualaroo
+Survicate
+Usabilla
+UserVoice
+GetFeedback
+Feedbackify
+Usersnap
+Instabug
+Apptentive
+Delighted
+Promoter.io
+
+# A/B Testing
+Optimizely
+VWO
+AB Tasty
+Google Optimize
+Split.io
+LaunchDarkly
+Kameleoon
+Convert
+SiteSpect
+Wasabi
+Oracle Maxymiser
+
+# Personalization
+Dynamic Yield
+Monetate
+Evergage
+Salesforce Interaction Studio
+Adobe Target
+Qubit
+Certona
+RichRelevance
+Barilliance
+Nosto
+Emarsys
+Bloomreach
+
+# Search Analytics
+Google Search Console
+Bing Webmaster Tools
+Yandex Webmaster
+Baidu Webmaster
+
+# Affiliate Tracking
+Post Affiliate Pro
+iDevAffiliate
+Tapfiliate
+Refersion
+LeadDyno
+PartnerStack
+AffiliateWP
+Cake
+HasOffers
+Impact
+TUNE
+
+# Click Tracking
+bit.ly
+Bitly
+ClickMeter
+Voluum
+RedTrack
+LinkTrackr
+ClickMagick
+Pretty Links
+
+# Retargeting/Remarketing
+Google Ads Remarketing
+Facebook Retargeting
+AdRoll
+Perfect Audience
+Criteo
+ReTargeter
+Retargeter
+SharpSpring
+
+# Customer Journey
+Google Analytics 4
+Adobe Customer Journey
+Kissmetrics Journey
+Mixpanel Flows
+Heap Journeys
+Amplitude Pathfinder
+
+# Voice of Customer
+Medallia
+Qualtrics
+SurveyMonkey
+Typeform
+SurveySparrow
+Formstack
+JotForm
+
+# Net Promoter Score (NPS)
+Delighted
+Promoter.io
+AskNicely
+Wootric
+InMoment
+CustomerGauge
+Retently
+Satismeter
+
+# Competitive Intelligence
+SimilarWeb
+Alexa
+SEMrush
+Ahrefs
+SpyFu
+iSpionage
+WhatRunsWhere
+Moat
+Crayon
+
+# SEO Tools
+Google Analytics
+Google Search Console
+SEMrush
+Ahrefs
+Moz
+Screaming Frog
+DeepCrawl
+OnCrawl
+Botify
+Conductor
+
+# Privacy/Consent Management
+OneTrust
+Cookiebot
+TrustArc
+Osano
+Termly
+Quantcast Choice
+Didomi
+Sourcepoint
+CookiePro
+Civic
+
+# Bot Detection
+reCAPTCHA
+hCaptcha
+PerimeterX
+DataDome
+Castle
+Shape Security
+Akamai Bot Manager
+Distil Networks
+White Ops
+Imperva Bot Management
+
+# Fraud Detection
+Sift
+Forter
+Riskified
+Signifyd
+Kount
+NS8
+ClearSale
+Emailage
+ThreatMetrix

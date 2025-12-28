@@ -1,0 +1,411 @@
+# DevOps & CI/CD Tools Wordlist
+
+# Container Platforms
+Docker
+Podman
+containerd
+CRI-O
+LXC
+LXD
+rkt
+Kata Containers
+gVisor
+
+# Container Orchestration
+Kubernetes
+K8s
+OpenShift
+Rancher
+Nomad
+Docker Swarm
+Amazon ECS
+Amazon EKS
+Google GKE
+Azure AKS
+Mesos
+Marathon
+
+# CI/CD Platforms
+Jenkins
+GitLab CI
+GitHub Actions
+CircleCI
+TravisCI
+Drone
+Buildkite
+TeamCity
+Bamboo
+Azure DevOps
+AWS CodePipeline
+Google Cloud Build
+Concourse
+GoCD
+Spinnaker
+Argo CD
+Flux
+Tekton
+Harness
+CodeFresh
+Buddy
+Semaphore
+
+# Configuration Management
+Ansible
+Terraform
+Puppet
+Chef
+SaltStack
+CFEngine
+Pulumi
+CloudFormation
+AWS CDK
+Bicep
+
+# Service Mesh
+Istio
+Linkerd
+Consul Connect
+AWS App Mesh
+Kuma
+Open Service Mesh
+Maesh
+Traefik Mesh
+
+# API Gateways
+Kong
+Tyk
+Apigee
+AWS API Gateway
+Azure API Management
+Ambassador
+Gloo
+KrakenD
+Express Gateway
+WSO2
+
+# Monitoring & Observability
+Prometheus
+Grafana
+Datadog
+New Relic
+Dynatrace
+AppDynamics
+Elastic Stack
+ELK
+Splunk
+Sumo Logic
+LogicMonitor
+Zabbix
+Nagios
+Icinga
+Checkmk
+Sensu
+VictoriaMetrics
+Thanos
+Cortex
+M3
+OpenTelemetry
+Jaeger
+Zipkin
+SigNoz
+Lightstep
+Honeycomb
+Tempo
+
+# Log Management
+Fluentd
+Fluent Bit
+Logstash
+Filebeat
+Vector
+Loki
+Graylog
+Papertrail
+Loggly
+
+# Infrastructure as Code
+Terraform
+Pulumi
+CloudFormation
+Azure Resource Manager
+Google Deployment Manager
+Crossplane
+CDK
+AWS CDK
+cdktf
+
+# GitOps
+Argo CD
+Flux
+Fleet
+Jenkins X
+Wea ve GitOps
+
+# Package Managers
+Helm
+Kustomize
+Jsonnet
+ytt
+Carvel
+
+# Registry/Artifact Management
+Harbor
+Artifactory
+Nexus
+JFrog
+Quay
+Docker Registry
+GitHub Packages
+GitLab Registry
+Azure Container Registry
+Amazon ECR
+Google Container Registry
+
+# Secret Management
+Vault
+HashiCorp Vault
+Sealed Secrets
+SOPS
+AWS Secrets Manager
+Azure Key Vault
+Google Secret Manager
+Doppler
+1Password
+Infisical
+
+# Load Testing
+k6
+Gatling
+JMeter
+Locust
+Artillery
+Apache Bench
+wrk
+Vegeta
+Tsung
+
+# Chaos Engineering
+Chaos Monkey
+Chaos Toolkit
+Litmus
+Gremlin
+Pumba
+PowerfulSeal
+Chaos Mesh
+
+# Security Scanning
+Trivy
+Clair
+Anchore
+Snyk
+Aqua
+Twistlock
+Falco
+OPA
+Open Policy Agent
+Checkov
+TFSec
+Terrascan
+Kube-bench
+Kube-hunter
+
+# Service Discovery
+Consul
+etcd
+ZooKeeper
+Eureka
+Nacos
+
+# Message Queues
+RabbitMQ
+Apache Kafka
+Redis
+NATS
+Amazon SQS
+Google Pub/Sub
+Azure Service Bus
+Pulsar
+ActiveMQ
+ZeroMQ
+
+# Backup & Disaster Recovery
+Velero
+Kasten K10
+Stash
+Restic
+Borg
+Duplicati
+Bacula
+
+# Cost Management
+Kubecost
+CloudHealth
+Cloudability
+Spot.io
+Cast AI
+
+# Development Tools
+Skaffold
+Tilt
+Garden
+DevSpace
+Telepresence
+Draft
+Okteto
+VS Code
+IntelliJ
+PyCharm
+WebStorm
+
+# Cloud Providers
+AWS
+Amazon Web Services
+Google Cloud Platform
+GCP
+Microsoft Azure
+Azure
+DigitalOcean
+Linode
+Vultr
+Hetzner
+OVH
+Oracle Cloud
+IBM Cloud
+Alibaba Cloud
+Tencent Cloud
+
+# Platform Engineering
+Backstage
+Port
+Humanitec
+Crossplane
+KubeVela
+Radius
+
+# Feature Flags
+LaunchDarkly
+Split.io
+Unleash
+Flagsmith
+GrowthBook
+CloudBees Feature Management
+
+# APM Tools
+New Relic
+Datadog
+Dynatrace
+AppDynamics
+Elastic APM
+Sentry
+Rollbar
+Raygun
+
+# Infrastructure Providers
+Terraform Cloud
+Pulumi Cloud
+Spacelift
+env0
+Scalr
+Atlantis
+
+# Build Tools
+Maven
+Gradle
+Ant
+Make
+Bazel
+Buck
+Pants
+Mill
+
+# Version Control
+Git
+GitHub
+GitLab
+Bitbucket
+Azure Repos
+Gitea
+Gogs
+
+# Artifact Repositories
+npm
+PyPI
+RubyGems
+Maven Central
+NuGet
+Cargo
+Go Modules
+Docker Hub
+
+# Testing Frameworks
+Selenium
+Cypress
+Playwright
+Puppeteer
+TestCafe
+WebdriverIO
+
+# Load Balancers
+NGINX
+HAProxy
+Traefik
+Envoy
+Caddy
+F5 BIG-IP
+Citrix ADC
+
+# Networking
+Cilium
+Calico
+Weave Net
+Flannel
+Canal
+kube-router
+Antrea
+
+# Storage
+Rook
+Longhorn
+OpenEBS
+Portworx
+StorageOS
+Ceph
+GlusterFS
+NFS
+
+# Automation
+Ansible
+SaltStack
+Puppet
+Chef
+Terraform
+Rundeck
+StackStorm
+
+# Terminal/Shell Tools
+kubectl
+helm
+docker
+git
+vim
+nano
+tmux
+screen
+htop
+jq
+yq
+fzf
+bat
+ripgrep
+exa
+
+# Cloud Native Tools
+Knative
+Crossplane
+Dapr
+KEDA
+Volcano
+Argo Workflows
+Argo Events
+Flagger
+Keptn

@@ -1,0 +1,342 @@
+# E-commerce Platforms & Tools Wordlist
+
+# E-commerce Platforms
+Shopify
+Shopify Plus
+WooCommerce
+Magento
+Magento 2
+Adobe Commerce
+BigCommerce
+PrestaShop
+OpenCart
+osCommerce
+Zen Cart
+Spree Commerce
+Solidus
+Sylius
+nopCommerce
+CS-Cart
+X-Cart
+Ecwid
+Volusion
+3dcart
+Square Online
+Wix Stores
+Squarespace Commerce
+Weebly Commerce
+Webflow Ecommerce
+Big Cartel
+Selz
+Gumroad
+SendOwl
+Sellfy
+Payhip
+E-junkie
+
+# Payment Gateways
+Stripe
+PayPal
+Square
+Braintree
+Authorize.Net
+Worldpay
+2Checkout
+Adyen
+Klarna
+Afterpay
+Affirm
+Sezzle
+PayU
+Razorpay
+Paytm
+Mollie
+Checkout.com
+Stripe Checkout
+PayPal Commerce Platform
+Amazon Pay
+Apple Pay
+Google Pay
+Shop Pay
+Facebook Pay
+Meta Pay
+Venmo
+Cash App
+Zelle
+Wise
+TransferWise
+Skrill
+Neteller
+Payoneer
+Alipay
+WeChat Pay
+UnionPay
+Mercado Pago
+PagSeguro
+Boleto
+OXXO
+SEPA
+Giropay
+iDEAL
+Sofort
+Bancontact
+Przelewy24
+EPS
+Multibanco
+
+# Shopping Cart
+Shopify
+WooCommerce
+Cart.com
+Shift4Shop
+Volusion
+CoreCommerce
+AmeriCommerce
+SamCart
+ThriveCart
+ClickFunnels
+CartFlows
+WP EasyCart
+
+# Point of Sale
+Shopify POS
+Square POS
+Lightspeed
+Vend
+ShopKeep
+Clover
+Toast
+TouchBistro
+Revel Systems
+NCR Silver
+Upserve
+eHopper
+QuickBooks POS
+
+# Inventory Management
+TradeGecko
+QuickBooks Commerce
+Cin7
+Ordoro
+SkuVault
+Fishbowl
+DEAR Inventory
+Brightpearl
+Stitch Labs
+Katana
+inFlow
+Zoho Inventory
+Square Inventory
+Lightspeed
+Vend
+ShipStation
+ShipBob
+ShipMonk
+Fulfill ment by Amazon
+FBA
+
+# Marketing Automation
+Klaviyo
+Omnisend
+Drip
+ActiveCampaign
+Mailchimp
+Constant Contact
+SendinBlue
+ConvertKit
+GetResponse
+AWeber
+MailerLite
+Moosend
+Sendinblue
+Campaign Monitor
+HubSpot
+Marketo
+Pardot
+Eloqua
+Act-On
+SharpSpring
+
+# Product Reviews
+Yotpo
+Trustpilot
+Bazaarvoice
+PowerReviews
+Okendo
+Reviews.io
+Judge.me
+Loox
+Stamped.io
+Product Reviews
+WooCommerce Product Reviews
+
+# Loyalty & Rewards
+Smile.io
+LoyaltyLion
+Swell
+Yotpo
+ReferralCandy
+Growave
+S Loyalty
+Joy
+Rewards
+Stamped Loyalty
+TapMango
+Fivestars
+
+# Live Chat & Support
+Zendesk
+Intercom
+Drift
+LiveChat
+Tidio
+Crisp
+Gorgias
+Help Scout
+Freshdesk
+Re:amaze
+Olark
+Tawk.to
+Pure Chat
+Chatra
+JivoChat
+SnapEngage
+Userlike
+LiveAgent
+Comm100
+Kayako
+
+# Shipping & Fulfillment
+ShipStation
+ShipBob
+ShipMonk
+EasyPost
+Shippo
+AfterShip
+Narvar
+Route
+Returnly
+Loop Returns
+Happy Returns
+FedEx
+UPS
+USPS
+DHL
+Canada Post
+
+# Analytics
+Google Analytics
+Google Analytics 4
+Shopify Analytics
+WooCommerce Analytics
+Metrilo
+Glew
+Lucky Orange
+Hotjar
+Crazy Egg
+Heap
+Mixpanel
+Kissmetrics
+
+# Personalization
+Dynamic Yield
+Monetate
+Nosto
+RichRelevance
+Barilliance
+Certona
+Qubit
+Emarsys
+Bloomreach
+Salesforce Commerce Cloud
+
+# Search & Discovery
+Algolia
+Searchspring
+Klevu
+Constructor
+Boost Commerce
+InstantSearch+
+Smart Search
+Site Search 360
+
+# A/B Testing
+Optimizely
+VWO
+Convert
+Google Optimize
+AB Tasty
+Dynamic Yield
+
+# Email Marketing
+Klaviyo
+Omnisend
+Mailchimp
+ActiveCampaign
+Drip
+Privy
+OptinMonster
+Justuno
+Sumo
+Wheelio
+Spin-a-Sale
+
+# Subscriptions
+Recharge
+Bold Subscriptions
+PayWhirl
+Chargebee
+Recurly
+Stripe Billing
+Zuora
+Chargify
+
+# Dropshipping
+Oberlo
+Spocket
+Modalyst
+Printful
+Printify
+Gooten
+Syncee
+AliDropship
+Doba
+Wholesale2B
+SaleHoo
+Worldwide Brands
+
+# Marketplace Integration
+Amazon
+eBay
+Etsy
+Walmart
+Facebook Marketplace
+Instagram Shopping
+Google Shopping
+Pinterest
+TikTok Shop
+Wish
+Mercari
+Poshmark
+Depop
+Vinted
+StockX
+
+# Multi-channel
+Sellbrite
+Linnworks
+ChannelAdvisor
+Zentail
+GeekSeller
+eComdash
+Veeqo
+Skubana
+
+# SEO Tools
+SEMrush
+Ahrefs
+Moz
+Screaming Frog
+Yoast SEO
+Rank Math
+All in One SEO

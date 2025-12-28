@@ -1,0 +1,149 @@
+# Web Servers Wordlist
+# Format: One technology per line (case-insensitive matching)
+
+# Traditional Web Servers
+nginx
+Nginx
+NGINX
+Apache
+apache
+Apache HTTP Server
+httpd
+IIS
+Microsoft-IIS
+Microsoft IIS
+LiteSpeed
+LiteSpeed Web Server
+OpenLiteSpeed
+lighttpd
+Lighttpd
+Caddy
+Cherokee
+Hiawatha
+Monkey HTTP Server
+
+# Application Servers
+Tomcat
+Apache Tomcat
+JBoss
+JBoss EAP
+WildFly
+Wildfly
+GlassFish
+Glassfish
+Payara
+WebLogic
+Oracle WebLogic
+WebSphere
+IBM WebSphere
+Jetty
+Eclipse Jetty
+Undertow
+Resin
+Caucho Resin
+
+# Reverse Proxies & Load Balancers
+HAProxy
+Varnish
+Squid
+Traefik
+Envoy
+Envoy Proxy
+Kong
+Tyk
+Zuul
+NGINX Plus
+
+# Cloud/Serverless
+Vercel
+Netlify
+Cloudflare Workers
+AWS Lambda
+Google Cloud Run
+Azure Functions
+Heroku
+Render
+Railway
+Fly.io
+Deno Deploy
+
+# Modern/Alternative
+Kestrel
+Uvicorn
+Gunicorn
+uWSGI
+Hypercorn
+Daphne
+Waitress
+CherryPy
+Tornado
+Twisted Web
+Zope
+
+# Embedded/IoT
+Mongoose
+Lighttpd
+thttpd
+mini_httpd
+Boa
+GoAhead
+
+# CDN Edge Servers
+Cloudflare
+Fastly
+Akamai
+Amazon CloudFront
+Azure CDN
+KeyCDN
+StackPath
+BunnyCDN
+Cloudinary
+
+# Language-Specific
+Node.js
+Express
+Koa
+Hapi
+Fastify
+NestJS
+AdonisJS
+Puma
+Unicorn
+Thin
+Passenger
+Phusion Passenger
+WEBrick
+Rack
+Sinatra
+Mongrel
+
+# Enterprise
+Oracle HTTP Server
+Sun Java System Web Server
+Zend Server
+OpenResty
+
+# Security/WAF Servers
+ModSecurity
+NAXSI
+Lua WAF
+
+# Development
+webpack-dev-server
+Vite
+Parcel
+Browsersync
+http-server
+serve
+live-server
+
+# Gaming/Streaming
+Wowza
+Red5
+Adobe Media Server
+nginx-rtmp
+
+# Other
+Adzerk
+Netlify Edge
+Workers

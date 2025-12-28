@@ -1,0 +1,590 @@
+# JavaScript Libraries Wordlist
+
+# Core Utilities
+jQuery
+lodash
+underscore
+Ramda
+immutable
+Immer
+
+# Date/Time
+Moment.js
+moment
+Day.js
+dayjs
+date-fns
+Luxon
+date-fns-tz
+Spacetime
+ms
+
+# Validation
+validator
+validator.js
+Yup
+Joi
+Ajv
+v8n
+Vest
+Superstruct
+Zod
+io-ts
+
+# HTTP Clients
+Axios
+axios
+fetch
+ky
+got
+superagent
+node-fetch
+request
+needle
+wretch
+
+# Promise/Async
+Bluebird
+async
+p-queue
+p-limit
+p-retry
+bottleneck
+
+# Reactive Programming
+RxJS
+Most.js
+Bacon.js
+Kefir
+Highland
+
+# Functional Programming
+Ramda
+Folktale
+Sanctuary
+fp-ts
+monet.js
+
+# Polyfills
+core-js
+polyfill
+babel-polyfill
+es5-shim
+es6-shim
+
+# Template Engines
+Handlebars
+Mustache
+EJS
+Pug
+Jade
+Nunjucks
+doT
+Marko
+LiquidJS
+
+# Parsers
+markdown-it
+marked
+showdown
+remark
+unified
+Prism
+PrismJS
+highlight.js
+CodeMirror
+Monaco Editor
+Ace
+
+# DOM Manipulation
+jQuery
+Zepto
+Cash
+Umbrella JS
+Chibi
+Balalaika
+
+# Animation
+GSAP
+GreenSock
+Anime.js
+Velocity.js
+Popmotion
+Motion One
+Framer Motion
+React Spring
+mo.js
+Vivus
+ScrollReveal
+
+# Canvas/Graphics
+Fabric.js
+Konva
+Paper.js
+Two.js
+p5.js
+Processing.js
+Rough.js
+canvas-sketch
+
+# 3D Graphics
+Three.js
+Babylon.js
+A-Frame
+PlayCanvas
+Cesium
+Oasis Engine
+
+# Charts/Graphs
+Chart.js
+D3.js
+Highcharts
+ECharts
+ApexCharts
+Recharts
+Victory
+Plotly.js
+C3.js
+NVD3
+morris.js
+Chartist
+Google Charts
+FusionCharts
+amCharts
+Billboard.js
+uPlot
+
+# Data Visualization
+D3.js
+Vega
+Vega-Lite
+Observable Plot
+vis.js
+Cytoscape.js
+sigma.js
+G6
+Mermaid
+Joint.js
+
+# Maps
+Leaflet
+Mapbox GL
+OpenLayers
+Google Maps API
+MapLibre
+Cesium
+deck.gl
+kepler.gl
+Turf.js
+geolib
+
+# Tables/Grids
+AG Grid
+Handsontable
+DataTables
+Tabulator
+SlickGrid
+jExcel
+Grid.js
+react-table
+TanStack Table
+
+# Forms
+Formik
+React Hook Form
+Final Form
+Redux Form
+Informed
+Unform
+Formsy
+react-jsonschema-form
+
+# Drag & Drop
+Sortable
+SortableJS
+Dragula
+interact.js
+react-beautiful-dnd
+react-dnd
+vue-draggable
+gridstack.js
+
+# File Upload
+Dropzone
+Fine Uploader
+FilePond
+Uppy
+Resumable.js
+Plupload
+jQuery File Upload
+
+# Rich Text Editors
+Quill
+TinyMCE
+CKEditor
+Draft.js
+Slate
+ProseMirror
+Trix
+Froala
+Summernote
+Medium Editor
+ContentTools
+Jodit
+Toast UI Editor
+SimpleMDE
+EasyMDE
+
+# PDF
+PDF.js
+jsPDF
+PDFKit
+pdfmake
+pdf-lib
+React PDF
+
+# QR Code
+qrcode
+qrcodejs
+node-qrcode
+jsQR
+
+# Barcode
+JsBarcode
+bwip-js
+QuaggaJS
+
+# Color
+chroma.js
+color
+TinyColor
+randomColor
+Please.js
+
+# Image Processing
+Cropper.js
+PhotoSwipe
+Lightbox2
+GLightbox
+Spotlight
+Viewer.js
+Pica
+jimp
+sharp
+ImageMagick
+GraphicsMagick
+
+# Audio
+Howler.js
+Tone.js
+WaveSurfer.js
+Peaks.js
+pizzicato
+Soundtouchjs
+
+# Video
+Video.js
+Plyr
+MediaElement.js
+Shaka Player
+hls.js
+dash.js
+videojs-contrib-hls
+flowplayer
+
+# Notifications
+Toastify
+notistack
+notyf
+toastr
+iziToast
+sweetalert
+sweetalert2
+Push.js
+notie
+
+# Modals/Dialogs
+Micromodal
+tingle.js
+vex
+Remodal
+iziModal
+jBox
+Bootbox
+Magnific Popup
+
+# Tooltips
+Tippy.js
+Popper.js
+Balloon.css
+Hint.css
+Tooltip.js
+
+# Slider/Carousel
+Swiper
+Slick
+Owl Carousel
+Tiny Slider
+Flickity
+Glide.js
+Splide
+Siema
+Keen Slider
+embla-carousel
+
+# Scroll
+AOS
+Locomotive Scroll
+smooth-scroll
+scrollReveal
+ScrollMagic
+FullPage.js
+Parallax.js
+Rellax
+Jarallax
+
+# Search
+Fuse.js
+lunr.js
+Elasticlunr
+FlexSearch
+MiniSearch
+js-search
+
+# Autocomplete
+autocomplete.js
+typeahead.js
+awesomplete
+accessible-autocomplete
+
+# Copy to Clipboard
+clipboard.js
+ClipboardJS
+
+# Cookies
+js-cookie
+cookie
+universal-cookie
+
+# Storage
+localForage
+store.js
+cross-storage
+Lockr
+
+# URL/Query String
+query-string
+qs
+URI.js
+url-parse
+
+# UUID
+uuid
+nanoid
+shortid
+cuid
+
+# Cryptography
+crypto-js
+bcrypt
+bcryptjs
+sjcl
+node-forge
+
+# Compression
+pako
+lz-string
+jszip
+compressorjs
+
+# Testing
+Jest
+Mocha
+Chai
+Jasmine
+Sinon
+TestCafe
+AVA
+Tape
+
+# Code Quality
+ESLint
+JSHint
+JSLint
+Prettier
+StandardJS
+
+# Documentation
+JSDoc
+documentation.js
+ESDoc
+
+# Build/Module
+Browserify
+RequireJS
+SystemJS
+UMD
+
+# Debugging
+debug
+loglevel
+winston
+bunyan
+pino
+
+# Performance
+web-vitals
+perfume.js
+boomerang
+
+# Security
+DOMPurify
+js-xss
+helmet
+csurf
+hpp
+
+# Internationalization
+i18next
+Format.js
+messageformat
+Globalize
+Polyglot
+
+# Number Formatting
+numeral
+accounting.js
+dinero.js
+currency.js
+
+# Email Validation
+email-validator
+isemail
+validator
+
+# Phone Number
+libphonenumber-js
+google-libphonenumber
+
+# Address
+addressit
+parse-address
+
+# Markdown
+markdown-it
+marked
+showdown
+remark
+micromark
+
+# Emoji
+emoji-mart
+node-emoji
+twemoji
+emojione
+
+# Social Sharing
+share-buttons
+sharethis
+addthis
+
+# Print
+print.js
+printThis
+jsPrintSetup
+
+# Screenshot
+html2canvas
+dom-to-image
+rasterizeHTML
+
+# Device Detection
+mobile-detect
+bowser
+ua-parser-js
+platform.js
+
+# Browser Feature Detection
+Modernizr
+feature.js
+
+# Lazy Loading
+lazysizes
+lozad
+vanilla-lazyload
+yall.js
+
+# Infinite Scroll
+infinite-scroll
+react-infinite-scroller
+react-window
+react-virtualized
+
+# Web Workers
+Comlink
+workerize
+greenlet
+
+# Service Workers
+Workbox
+sw-precache
+sw-toolbox
+
+# WebRTC
+simple-peer
+PeerJS
+mediasoup
+
+# WebSockets
+Socket.IO
+ws
+uWebSockets
+Sockette
+ReconnectingWebSocket
+
+# GraphQL
+Apollo Client
+Relay
+urql
+graphql-request
+URQL
+
+# State Management
+Redux
+MobX
+Zustand
+Recoil
+Jotai
+Valtio
+XState
+Overmind
+
+# Router
+React Router
+Vue Router
+Reach Router
+Navigo
+page.js
+Director
+
+# Gesture
+Hammer.js
+AlloyFinger
+ZingTouch
+
+# Virtual DOM
+virtual-dom
+snabbdom
+maquette
+
+# Diff/Patch
+jsondiffpatch
+deep-diff
+fast-json-patch
+
+# Machine Learning
+TensorFlow.js
+Brain.js
+ml5.js
+Synaptic
+ConvNetJS

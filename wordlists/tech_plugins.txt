@@ -1,0 +1,230 @@
+# Plugins & Extensions Wordlist
+
+# WordPress Plugins
+Yoast SEO
+Elementor
+WooCommerce
+Contact Form 7
+Jetpack
+Akismet
+All in One SEO
+WP Super Cache
+W3 Total Cache
+WP Rocket
+WPForms
+Gravity Forms
+Advanced Custom Fields
+ACF
+Wordfence Security
+Sucuri Security
+iThemes Security
+UpdraftPlus
+BackWPup
+Duplicator
+MonsterInsights
+Google Analytics
+Smush
+EWWW Image Optimizer
+ShortPixel
+WP-Optimize
+Autoptimize
+Redirection
+Pretty Links
+MailChimp
+Constant Contact
+HubSpot
+OptinMonster
+Thrive Leads
+WP Mail SMTP
+Easy Digital Downloads
+MemberPress
+Restrict Content Pro
+bbPress
+BuddyPress
+WP Job Manager
+WP Event Manager
+The Events Calendar
+Loco Translate
+WPML
+Polylang
+TranslatePress
+Rank Math
+SEOPress
+Divi Builder
+WPBakery
+Beaver Builder
+Visual Composer
+SiteOrigin
+WP Page Builder
+Toolset
+Pods
+Types
+WP Meta SEO
+Schema
+Broken Link Checker
+Really Simple SSL
+SSL Insecure Content Fixer
+TablePress
+WP Data Tables
+Ninja Tables
+WP Google Maps
+WP Forms Lite
+Ninja Forms
+Formidable Forms
+Caldera Forms
+WP Migrate DB
+WP Clone
+All-in-One WP Migration
+Blog2Social
+Social Warfare
+AddThis
+ShareThis
+Revive Old Posts
+Buffer
+PDF Embedder
+WP Mail Logging
+User Role Editor
+Members
+Simple Membership
+Ultimate Member
+Profile Builder
+WP User Frontend
+Simple Page Ordering
+Post Types Order
+Custom Post Type UI
+Taxonomies
+WP Security Audit Log
+Activity Log
+MainWP
+ManageWP
+InfiniteWP
+Query Monitor
+Debug Bar
+WP Debug
+WP Error Log
+Popup Maker
+WordPress Popup
+Supsystic Popups
+Hustle
+Convert Pro
+Perfmatters
+Swift Performance
+NitroPack
+WP Fastest Cache
+Comet Cache
+Advanced Database Cleaner
+WP-Sweep
+WP Reset
+Regenerate Thumbnails
+AJAX Thumbnail Rebuild
+Safe SVG
+Disable Comments
+Disable Emojis
+Disable Embeds
+Code Snippets
+Insert Headers and Footers
+Custom CSS JS
+Simple Custom CSS
+Header Footer Code Manager
+WP Maintenance Mode
+Coming Soon
+SeedProd
+Minimal Coming Soon
+WP Store Locator
+Store Locator Plus
+WP Google Review
+WP Review Slider
+WP Customer Reviews
+Testimonials Widget
+Strong Testimonials
+Easy Testimonials
+
+# Browser Extensions
+AdBlock
+AdBlock Plus
+uBlock Origin
+Ghostery
+Privacy Badger
+HTTPS Everywhere
+LastPass
+1Password
+Bitwarden
+Dashlane
+Grammarly
+Honey
+Rakuten
+Momentum
+OneTab
+The Great Suspender
+Session Buddy
+RescueTime
+WhatFont
+ColorZilla
+Page Ruler
+Wappalyzer
+BuiltWith
+Lighthouse
+React Developer Tools
+Redux DevTools
+Vue.js devtools
+Angular DevTools
+JSON Formatter
+Postman
+Swagger Inspector
+Tampermonkey
+Violentmonkey
+Stylus
+Stylish
+Dark Reader
+Google Translate
+Evernote Web Clipper
+Pocket
+Notion Web Clipper
+Microsoft Editor
+ChatGPT
+Bard
+Bing Chat
+Video DownloadHelper
+Flash Video Downloader
+Loom
+Awesome Screenshot
+Nimbus Screenshot
+Full Page Screen Capture
+Print Friendly
+Save as PDF
+Web Developer
+Web Scraper
+SEOquake
+MozBar
+Ahrefs SEO Toolbar
+Keywords Everywhere
+SimilarWeb
+Majestic Backlink Analyzer
+ClearURLs
+Link Redirect Trace
+Redirect Path
+NoFollow
+Check My Links
+Tag Assistant
+Google Analytics Debugger
+Facebook Pixel Helper
+DataSlayer
+Cookie AutoDelete
+EditThisCookie
+User-Agent Switcher
+Proxy SwitchyOmega
+FoxyProxy
+ModHeader
+Requestly
+Allow CORS
+CORS Everywhere
+Selenium IDE
+Katalon Recorder
+Clickup
+Trello
+Asana
+Todoist
+MetaMask
+Phantom
+Coinbase Wallet
+Trust Wallet

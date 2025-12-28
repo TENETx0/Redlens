@@ -1,0 +1,182 @@
+# CDN (Content Delivery Network) Wordlist
+
+# Major CDNs
+Cloudflare
+Fastly
+Akamai
+Amazon CloudFront
+CloudFront
+Microsoft Azure CDN
+Azure CDN
+Google Cloud CDN
+StackPath
+KeyCDN
+BunnyCDN
+Bunny
+CDN77
+CDNsun
+CacheFly
+Limelight Networks
+Edgio
+Section.io
+Imperva CDN
+Incapsula
+
+# Regional CDNs
+Alibaba Cloud CDN
+Tencent Cloud CDN
+Baidu Cloud CDN
+Yandex CDN
+G-Core Labs
+CDNetworks
+ChinaCache
+ChinaNetCenter
+Azion
+ArvanCloud
+
+# Specialized CDNs
+Cloudinary
+imgix
+ImageEngine
+ImageKit
+Sirv
+Thumbor
+Fastly Image Optimizer
+Akamai Image Manager
+
+# Video CDNs
+Amazon CloudFront
+Akamai Media Delivery
+Fastly Video CDN
+StackPath Video CDN
+Limelight Media Delivery
+Brightcove CDN
+JW Player CDN
+Wowza CDN
+Red5
+Ant Media Server
+
+# Static/JAMstack CDNs
+Netlify
+Vercel
+Cloudflare Pages
+GitHub Pages
+GitLab Pages
+Surge
+Render
+Railway
+Fly.io
+DigitalOcean App Platform
+
+# Security CDNs
+Cloudflare
+Imperva
+Akamai Kona
+Fastly WAF
+StackPath SecureCDN
+Sucuri CDN
+Google Cloud Armor
+Azure Front Door
+
+# Caching Layers
+Varnish
+Squid
+NGINX
+Apache Traffic Server
+HAProxy
+Traefik
+
+# Edge Computing
+Cloudflare Workers
+Fastly Compute@Edge
+Akamai EdgeWorkers
+Lambda@Edge
+CloudFront Functions
+Vercel Edge Functions
+Netlify Edge Functions
+Deno Deploy
+Fly.io Edge
+
+# DNS Providers (with CDN)
+Cloudflare DNS
+Amazon Route 53
+Google Cloud DNS
+Azure DNS
+NS1
+DNSMadeEasy
+Dyn
+UltraDNS
+Constellix
+
+# Multi-CDN
+Cedexis
+Citrix ADC
+F5 BIG-IP DNS
+Perfops
+Catchpoint
+
+# Open Source CDN
+Apache Traffic Server
+NGINX
+Varnish
+Squid
+Traefik
+Caddy
+
+# Gaming CDNs
+Amazon GameLift
+Google Cloud Game Servers
+PlayFab
+Photon
+Mirror
+Nakama
+
+# Enterprise CDNs
+Akamai
+Limelight
+Edgecast
+Level3
+Tata Communications
+GTT Communications
+Zenlayer
+
+# Regional Specialists
+Tencent Cloud CDN
+Alibaba Cloud CDN
+Baidu Cloud Acceleration
+Wangsu
+ChinaCache
+ArvanCloud
+G-Core Labs
+CDNvideo
+
+# API CDNs
+Kong
+Apigee
+AWS API Gateway
+Azure API Management
+Tyk
+MuleSoft Anypoint
+
+# npm CDNs
+unpkg
+jsDelivr
+cdnjs
+Skypack
+esm.sh
+UNPKG
+
+# WordPress CDNs
+Jetpack CDN
+WP Rocket
+W3 Total Cache
+WP Super Cache
+LiteSpeed Cache
+
+# Security Features
+DDoS Protection
+Web Application Firewall
+Bot Management
+Rate Limiting
+SSL/TLS
+DNSSEC

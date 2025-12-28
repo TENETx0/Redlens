@@ -1,0 +1,281 @@
+# Databases Wordlist
+
+# Relational Databases (SQL)
+MySQL
+MariaDB
+PostgreSQL
+Postgres
+Microsoft SQL Server
+MSSQL
+SQL Server
+Oracle Database
+Oracle
+SQLite
+DB2
+IBM DB2
+SAP HANA
+Amazon Aurora
+Amazon RDS
+Google Cloud SQL
+Azure SQL
+Percona Server
+TiDB
+CockroachDB
+YugabyteDB
+Vitess
+PlanetScale
+
+# NoSQL Databases
+MongoDB
+Cassandra
+Apache Cassandra
+Redis
+Memcached
+Couchbase
+CouchDB
+Amazon DynamoDB
+DynamoDB
+Google Cloud Datastore
+Google Cloud Firestore
+Firestore
+Azure Cosmos DB
+Cosmos DB
+Riak
+ArangoDB
+OrientDB
+Neo4j
+Amazon Neptune
+JanusGraph
+Dgraph
+TigerGraph
+
+# Document Databases
+MongoDB
+CouchDB
+Couchbase
+RavenDB
+Amazon DocumentDB
+Azure Cosmos DB
+FaunaDB
+MarkLogic
+BaseX
+eXist-db
+
+# Key-Value Stores
+Redis
+Memcached
+etcd
+Amazon DynamoDB
+Riak KV
+Berkeley DB
+LevelDB
+RocksDB
+Aerospike
+Hazelcast
+Coherence
+
+# Column-Family Stores
+Apache Cassandra
+Apache HBase
+HBase
+ScyllaDB
+Hypertable
+Amazon Keyspaces
+Azure Cosmos DB Cassandra API
+
+# Graph Databases
+Neo4j
+Amazon Neptune
+ArangoDB
+OrientDB
+JanusGraph
+Dgraph
+TigerGraph
+RedisGraph
+Nebula Graph
+Memgraph
+GraphDB
+AllegroGraph
+Stardog
+Virtuoso
+
+# Time Series Databases
+InfluxDB
+TimescaleDB
+Prometheus
+OpenTSDB
+Graphite
+KDB+
+QuestDB
+VictoriaMetrics
+M3DB
+TimeScaleDB
+Amazon Timestream
+Azure Time Series Insights
+
+# In-Memory Databases
+Redis
+Memcached
+SAP HANA
+Oracle TimesTen
+VoltDB
+Hazelcast
+Apache Ignite
+GridGain
+Aerospike
+Tarantool
+
+# NewSQL
+Google Cloud Spanner
+CockroachDB
+YugabyteDB
+TiDB
+NuoDB
+VoltDB
+MemSQL
+SingleStore
+Clustrix
+
+# Search Engines
+Elasticsearch
+Solr
+Apache Solr
+Algolia
+Meilisearch
+Typesense
+Amazon CloudSearch
+Azure Cognitive Search
+OpenSearch
+Sphinx
+Manticore Search
+
+# Vector Databases
+Pinecone
+Weaviate
+Milvus
+Qdrant
+Chroma
+Vespa
+Vald
+LanceDB
+pgvector
+
+# Embedded Databases
+SQLite
+Berkeley DB
+LevelDB
+RocksDB
+LMDB
+H2
+Derby
+HSQLDB
+Firebird
+
+# Cloud Databases
+Amazon RDS
+Amazon Aurora
+Amazon DynamoDB
+Amazon Redshift
+Google Cloud SQL
+Google Cloud Spanner
+Google Cloud Bigtable
+Google BigQuery
+Azure SQL Database
+Azure Cosmos DB
+Azure Synapse
+Firebase Realtime Database
+Firebase Firestore
+Supabase
+PlanetScale
+Neon
+Fauna
+Xata
+
+# Data Warehouses
+Snowflake
+Amazon Redshift
+Google BigQuery
+Azure Synapse
+Databricks
+Teradata
+Oracle Exadata
+SAP BW
+Vertica
+IBM Netezza
+Greenplum
+ClickHouse
+Apache Druid
+Apache Pinot
+
+# Multi-Model Databases
+ArangoDB
+OrientDB
+Cosmos DB
+FaunaDB
+Couchbase
+MarkLogic
+Apache Ignite
+
+# Mobile/Edge Databases
+Realm
+SQLite
+PouchDB
+WatermelonDB
+RxDB
+Dexie.js
+LokiJS
+LowDB
+NeDB
+Firebase
+AWS Amplify DataStore
+
+# Object Databases
+db4o
+ObjectDB
+Versant
+Objectivity
+
+# XML Databases
+BaseX
+eXist-db
+MarkLogic
+Oracle XML DB
+Sedna
+
+# Distributed SQL
+CockroachDB
+TiDB
+YugabyteDB
+VoltDB
+NuoDB
+CitusData
+Google Spanner
+
+# Analytics Databases
+ClickHouse
+Apache Druid
+Apache Pinot
+Presto
+Trino
+Apache Impala
+Apache Drill
+Dremio
+StarRocks
+Doris
+
+# Blockchain Databases
+BigchainDB
+Hyperledger Fabric
+Ethereum
+IPFS
+OrbitDB
+Gun
+
+# Specialized
+Redis (Cache)
+Kafka (Streaming)
+Pulsar (Messaging)
+RabbitMQ (Queue)
+NATS (Messaging)
+Apache Flink (Stream Processing)
+Apache Storm (Stream Processing)
