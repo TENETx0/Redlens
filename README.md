@@ -130,7 +130,7 @@ Redlens/
 ### Step 4: Make Executable (Optional)
 
 ```bash
-chmod +x Redlens.py
+chmod +x redlens.py
 ```
 
 ---
@@ -140,7 +140,7 @@ chmod +x Redlens.py
 ### Basic Usage
 
 ```bash
-python3 Redlens.py
+python3 redlens.py
 ```
 
 ### Quick Start Guide
@@ -148,7 +148,7 @@ python3 Redlens.py
 1. **Launch Redlens**
    ```bash
    cd Redlens
-   python3 Redlens.py
+   python3 redlens.py
    ```
 
 2. **Enter Target URL**
